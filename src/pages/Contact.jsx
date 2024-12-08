@@ -8,6 +8,7 @@ const Contact = () => {
 
     <section id="contact" className="contact section">
 
+      
       <div className="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
         <p><span>Need Help?</span> <span className="description-title">Contact Us</span></p>
