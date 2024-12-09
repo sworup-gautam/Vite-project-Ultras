@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import { Route, Routes } from 'react-router'
-import Home from './pages/home'
+import Home from './pages/home' 
 import Contact from './pages/Contact'
 
 function App() {
@@ -9,11 +9,7 @@ function App() {
 
   return (
     <>
-      {
-
-        <h1>Hello World!</h1>
-
-      }
+      
 
         <Routes>
           <Route path='/home' element={<Home/>} />

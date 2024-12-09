@@ -1,103 +1,245 @@
 import React from 'react'
 
-
 const Contact = () => {
   return (
-
-    // <div>Contact </div>
-
-    <section id="contact" className="contact section">
-
-      
-      <div className="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p><span>Need Help?</span> <span className="description-title">Contact Us</span></p>
-      </div>
-
-      <div className="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div className="mb-5">
-          <iframe style="width: 100%; height: 400px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen=""></iframe>
+    <>
+<section className="site-banner jarallax padding-large">
+      <div className="container">
+        <div className="row">
+          <div className="col-md-12">
+            <h1 className="page-title">Contact us</h1>
+            <div className="breadcrumbs">
+              <span className="item">
+                <a href="index.html">Home /</a>
+              </span>
+              <span className="item">Contact us</span>
+            </div>
+          </div>
         </div>
-
-        <div className="row gy-4">
-
-          <div className="col-md-6">
-            <div className="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
-              <i className="icon bi bi-geo-alt flex-shrink-0"></i>
-              <div>
-                <h3>Address</h3>
-                <p>A108 Adam Street, New York, NY 535022</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-6">
-            <div className="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="300">
-              <i className="icon bi bi-telephone flex-shrink-0"></i>
-              <div>
-                <h3>Call Us</h3>
-                <p>+1 5589 55488 55</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-6">
-            <div className="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="400">
-              <i className="icon bi bi-envelope flex-shrink-0"></i>
-              <div>
-                <h3>Email Us</h3>
-                <p>info@example.com</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-6">
-            <div className="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="500">
-              <i className="icon bi bi-clock flex-shrink-0"></i>
-              <div>
-                <h3>Opening Hours<br/></h3>
-                <p><strong>Mon-Sat:</strong> 11AM - 23PM; <strong>Sunday:</strong> Closed</p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-        <form action="forms/contact.php" method="post" className="php-email-form" data-aos="fade-up" data-aos-delay="600">
-          <div className="row gy-4">
-
-            <div className="col-md-6">
-              <input type="text" name="name" className="form-control" placeholder="Your Name" required=""/>
-            </div>
-
-            <div className="col-md-6 ">
-              <input type="email" className="form-control" name="email" placeholder="Your Email" required=""/>
-            </div>
-
-            <div className="col-md-12">
-              <input type="text" className="form-control" name="subject" placeholder="Subject" required=""/>
-            </div>
-
-            <div className="col-md-12">
-              <textarea className="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
-            </div>
-
-            <div className="col-md-12 text-center">
-              <div className="loading">Loading</div>
-              <div className="error-message"></div>
-              <div className="sent-message">Your message has been sent. Thank you!</div>
-
-              <button type="submit">Send Message</button>
-            </div>
-
-          </div>
-        </form>
-
       </div>
-
     </section>
 
+    <section className="contact-information padding-large">
+      <div className="container">
+        <div className="row">
+          <div className="col-md-6">
+            <div className="section-header">
+              <h2 className="section-title">Get in touch</h2>
+            </div>
+            <div className="contact-detail">
+              <div className="detail-list">
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <ul className="list-unstyled list-icon">
+                  <li>
+                    <a href="#"><i className="icon icon-phone"></i>+1650-243-0000</a>
+                  </li>
+                  <li>
+                    <a href="mailto:info@yourcompany.com"><i className="icon icon-mail"></i>info@yourcompany.com</a>
+                  </li>
+                  <li>
+                    <a href="#"><i className="icon icon-map-pin"></i>North Melbourne VIC 3051, Australia</a>
+                  </li>
+                </ul>
+              </div>
+              <div className="social-links">
+                <h3>Social Links</h3>
+                <ul className="d-flex list-unstyled">
+                  <li><a href="#" className="icon icon-facebook"></a></li>
+                  <li><a href="#" className="icon icon-twitter"></a></li>
+                  <li><a href="#" className="icon icon-instagram"></a></li>
+                  <li><a href="#" className="icon icon-youtube-play"></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="contact-information">
+              <div className="section-header">
+                <h2 className="section-title">Send us a message</h2>
+              </div>
+              <form name="contactform" action="contact.php" method="post" className="contact-form">
+  <div className="form-item">
+    <input
+      type="text"
+      minLength="2"
+      name="name"
+      placeholder="Name"
+      className="u-full-width bg-light"
+      required
+    />  
+    <input
+      type="email"
+      name="email"
+      placeholder="E-mail"
+      className="u-full-width bg-light"
+      required
+    />
+    <textarea
+      className="u-full-width bg-light"
+      name="message"
+      placeholder="Message"
+      style={{ height: '180px' }}
+      required
+    ></textarea>
+  </div>
+  <label>
+    <input type="checkbox" required />
+    <span className="label-body">
+      I agree to all the <a href="#">terms and conditions</a>
+    </span>
+  </label>
+  <button type="submit" name="submit" className="btn btn-dark btn-full btn-medium">
+    Submit
+  </button>
+</form>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section className="google-map">
+  <div
+    className="mapouter"
+    style={{
+      position: 'relative',
+      textAlign: 'right',
+      height: '500px',
+      width: '100%',
+    }}
+  >
+    <div
+      className="gmap_canvas"
+      style={{
+        overflow: 'hidden',
+        background: 'none',
+        height: '500px',
+        width: '100%',
+      }}
+    >
+      <iframe
+        width="100%"
+        height="500"
+        id="gmap_canvas"
+        src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+        style={{
+          border: 'none', // Replaces `frameBorder="0"`
+          overflow: 'hidden', // Replaces `scrolling="no"`
+          margin: '0', // Replaces `marginHeight="0"` and `marginWidth="0"`
+        }}
+        title="Google Map"
+      ></iframe>
+      <a href="https://getasearch.com/fmovies">fmovies</a>
+    </div>
+    <a href="https://www.embedgooglemap.net">embedgooglemap.net</a>
+  </div>
+</section>
+
+
+    <section id="brand-collection" className="padding-medium bg-light-grey">
+      <div className="container">
+        <div className="d-flex flex-wrap justify-content-between">
+          <img src="images/brand1.png" alt="phone" className="brand-image"/>
+          <img src="images/brand2.png" alt="phone" className="brand-image"/>
+          <img src="images/brand3.png" alt="phone" className="brand-image"/>
+          <img src="images/brand4.png" alt="phone" className="brand-image"/>
+          <img src="images/brand5.png" alt="phone" className="brand-image"/>
+        </div>
+      </div>
+    </section>
+
+    <section id="instagram" className="padding-large">
+      <div className="container">
+        <div className="section-header">
+          <h2 className="section-title">Follow our instagram</h2>
+        </div>
+        <p>Our official Instagram account <a href="#">@ultras</a> or <a href="#">#ultras_clothing</a>
+        </p>
+        <div className="row d-flex flex-wrap justify-content-between">
+          <div className="col-lg-2 col-md-4 col-sm-6">
+            <figure className="zoom-effect">
+              <img src="images/insta-image1.jpg" alt="instagram" className="insta-image"/>
+              <i className="icon icon-instagram"></i>
+            </figure>
+          </div>
+          <div className="col-lg-2 col-md-4 col-sm-6">
+            <figure className="zoom-effect">
+              <img src="images/insta-image2.jpg" alt="instagram" className="insta-image"/>
+              <i className="icon icon-instagram"></i>
+            </figure>
+          </div>
+          <div className="col-lg-2 col-md-4 col-sm-6">
+            <figure className="zoom-effect">
+              <img src="images/insta-image3.jpg" alt="instagram" className="insta-image"/>
+              <i className="icon icon-instagram"></i>
+            </figure>
+          </div>
+          <div className="col-lg-2 col-md-4 col-sm-6">
+            <figure className="zoom-effect">
+              <img src="images/insta-image4.jpg" alt="instagram" className="insta-image"/>
+              <i className="icon icon-instagram"></i>
+            </figure>
+          </div>
+          <div className="col-lg-2 col-md-4 col-sm-6">
+            <figure className="zoom-effect">
+              <img src="images/insta-image5.jpg" alt="instagram" className="insta-image"/>
+              <i className="icon icon-instagram"></i>
+            </figure>
+          </div>
+          <div className="col-lg-2 col-md-4 col-sm-6">
+            <figure className="zoom-effect">
+              <img src="images/insta-image6.jpg" alt="instagram" className="insta-image"/>
+              <i className="icon icon-instagram"></i>
+            </figure>
+          </div>
+        </div>          
+      </div>
+    </section>
+
+    <section id="shipping-information">
+      <hr/>
+      <div className="container">
+        <div className="row d-flex flex-wrap align-items-center justify-content-between">
+          <div className="col-md-3 col-sm-6">
+            <div className="icon-box">
+              <i className="icon icon-truck"></i>
+              <h4 className="block-title">
+                <strong>Free shipping</strong> Over $200
+              </h4>
+            </div>
+          </div>
+          <div className="col-md-3 col-sm-6">
+            <div className="icon-box">
+              <i className="icon icon-return"></i>
+              <h4 className="block-title">
+                <strong>Money back</strong> Return within 7 days
+              </h4>
+            </div>
+          </div>
+          <div className="col-md-3 col-sm-6">
+            <div className="icon-box">
+              <i className="icon icon-tags1"></i>
+              <h4 className="block-title">
+                <strong>Buy 4 get 5th</strong> 50% off
+              </h4>
+            </div>
+          </div>
+          <div className="col-md-3 col-sm-6">
+            <div className="icon-box">
+              <i className="icon icon-help_outline"></i>
+              <h4 className="block-title">
+                <strong>Any questions?</strong> experts are ready
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr/>
+    </section>
+
+   
+</>
   )
 }
 
