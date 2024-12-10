@@ -40,7 +40,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products1.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products1.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -65,7 +65,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products2.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products2.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -90,7 +90,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products3.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products3.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -115,7 +115,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -140,7 +140,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products5.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products5.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -165,7 +165,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products6.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products6.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -190,7 +190,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -215,7 +215,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products8.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products8.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -240,7 +240,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products13.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products13.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -265,7 +265,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products14.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products14.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -290,7 +290,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products15.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products15.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -315,7 +315,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products16.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products16.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -344,7 +344,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products13.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products13.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -369,7 +369,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products14.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products14.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -394,7 +394,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products15.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products15.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -419,7 +419,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products16.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products16.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -448,7 +448,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products3.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products3.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -473,7 +473,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products8.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products8.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -498,7 +498,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products5.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products5.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -523,7 +523,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -552,7 +552,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products1.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products1.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -577,7 +577,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -602,7 +602,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -627,7 +627,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products2.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products2.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -656,7 +656,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products17.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products17.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -681,7 +681,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -706,7 +706,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products18.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products18.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -735,7 +735,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products3.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products3.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -760,7 +760,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -785,7 +785,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products6.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products6.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -810,7 +810,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -839,7 +839,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products5.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products5.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -864,7 +864,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products2.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products2.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -889,7 +889,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products6.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products6.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -918,7 +918,7 @@ const Shop = () => {
                   <div class="row d-flex flex-wrap">
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products19.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products19.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -943,7 +943,7 @@ const Shop = () => {
                     </div>
                     <div class="product-item col-lg-4 col-md-6 col-sm-6">
                       <div class="image-holder">
-                        <img src={"../assets/images/selling-products20.jpg"} alt="Books" class="product-image"/>
+                        <img src={"../src/assets/images/selling-products20.jpg"} alt="Books" class="product-image"/>
                       </div>
                       <div class="cart-concern">
                         <div class="cart-button d-flex justify-content-between align-items-center">
@@ -1073,7 +1073,7 @@ const Shop = () => {
           <article class="col-md-4 post-item">
             <div class="image-holder zoom-effect">
               <a href="single-post.html">
-                <img src={"../assets/images/post-img1.jpg"} alt="post" class="post-image"/>
+                <img src={"../src/assets/images/post-img1.jpg"} alt="post" class="post-image"/>
               </a>
             </div>
             <div class="post-content d-flex">
@@ -1092,7 +1092,7 @@ const Shop = () => {
           <article class="col-md-4 post-item">
             <div class="image-holder zoom-effect">
               <a href="single-post.html">
-                <img src={"../assets/images/post-img2.jpg"} alt="post" class="post-image"/>
+                <img src={"../src/assets/images/post-img2.jpg"} alt="post" class="post-image"/>
               </a>
             </div>
             <div class="post-content d-flex">
@@ -1111,7 +1111,7 @@ const Shop = () => {
           <article class="col-md-4 post-item">
             <div class="image-holder zoom-effect">
               <a href="single-post.html">
-                <img src={"../assets/images/post-img3.jpg"} alt="post" class="post-image"/>
+                <img src={"../src/assets/images/post-img3.jpg"} alt="post" class="post-image"/>
               </a>
             </div>
             <div class="post-content d-flex">
@@ -1134,11 +1134,11 @@ const Shop = () => {
     <section id="brand-collection" class="padding-medium bg-light-grey">
       <div class="container">
         <div class="d-flex flex-wrap justify-content-between">
-          <img src={"../assets/images/brand1.png"} alt="phone" class="brand-image"/>
-          <img src={"../assets/images/brand2.png"} alt="phone" class="brand-image"/>
-          <img src={"../assets/images/brand3.png"} alt="phone" class="brand-image"/>
-          <img src={"../assets/images/brand4.png"} alt="phone" class="brand-image"/>
-          <img src={"../assets/images/brand5.png"} alt="phone" class="brand-image"/>
+          <img src={"../src/assets/images/brand1.png"} alt="phone" class="brand-image"/>
+          <img src={"../src/assets/images/brand2.png"} alt="phone" class="brand-image"/>
+          <img src={"../src/assets/images/brand3.png"} alt="phone" class="brand-image"/>
+          <img src={"../src/assets/images/brand4.png"} alt="phone" class="brand-image"/>
+          <img src={"../src/assets/images/brand5.png"} alt="phone" class="brand-image"/>
         </div>
       </div>
     </section>
@@ -1153,37 +1153,37 @@ const Shop = () => {
         <div class="row d-flex flex-wrap justify-content-between">
           <div class="col-lg-2 col-md-4 col-sm-6">
             <figure class="zoom-effect">
-              <img src={"../assets/images/insta-image1.jpg"} alt="instagram" class="insta-image"/>
+              <img src={"../src/assets/images/insta-image1.jpg"} alt="instagram" class="insta-image"/>
               <i class="icon icon-instagram"></i>
             </figure>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6">
             <figure class="zoom-effect">
-              <img src={"../assets/images/insta-image2.jpg"} alt="instagram" class="insta-image"/>
+              <img src={"../src/assets/images/insta-image2.jpg"} alt="instagram" class="insta-image"/>
               <i class="icon icon-instagram"></i>
             </figure>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6">
             <figure class="zoom-effect">
-              <img src={"../assets/images/insta-image3.jpg"} alt="instagram" class="insta-image"/>
+              <img src={"../src/assets/images/insta-image3.jpg"} alt="instagram" class="insta-image"/>
               <i class="icon icon-instagram"></i>
             </figure>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6">
             <figure class="zoom-effect">
-              <img src={"../assets/images/insta-image4.jpg"} alt="instagram" class="insta-image"/>
+              <img src={"../src/assets/images/insta-image4.jpg"} alt="instagram" class="insta-image"/>
               <i class="icon icon-instagram"></i>
             </figure>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6">
             <figure class="zoom-effect">
-              <img src={"../assets/images/insta-image5.jpg"} alt="instagram" class="insta-image"/>
+              <img src={"../src/assets/images/insta-image5.jpg"} alt="instagram" class="insta-image"/>
               <i class="icon icon-instagram"></i>
             </figure>
           </div>
           <div class="col-lg-2 col-md-4 col-sm-6">
             <figure class="zoom-effect">
-              <img src={"../assets/images/insta-image6.jpg"} alt="instagram" class="insta-image"/>
+              <img src={"../src/assets/images/insta-image6.jpg"} alt="instagram" class="insta-image"/>
               <i class="icon icon-instagram"></i>
             </figure>
           </div>

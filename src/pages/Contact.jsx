@@ -140,11 +140,11 @@ const Contact = () => {
     <section id="brand-collection" className="padding-medium bg-light-grey">
       <div className="container">
         <div className="d-flex flex-wrap justify-content-between">
-          <img src="images/brand1.png" alt="phone" className="brand-image"/>
-          <img src="images/brand2.png" alt="phone" className="brand-image"/>
-          <img src="images/brand3.png" alt="phone" className="brand-image"/>
-          <img src="images/brand4.png" alt="phone" className="brand-image"/>
-          <img src="images/brand5.png" alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand1.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand2.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand3.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand4.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand5.png"} alt="phone" className="brand-image"/>
         </div>
       </div>
     </section>
@@ -159,37 +159,37 @@ const Contact = () => {
         <div className="row d-flex flex-wrap justify-content-between">
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src="images/insta-image1.jpg" alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image1.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src="images/insta-image2.jpg" alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image2.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src="images/insta-image3.jpg" alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image3.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src="images/insta-image4.jpg" alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image4.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src="images/insta-image5.jpg" alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image5.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src="images/insta-image6.jpg" alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image6.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>

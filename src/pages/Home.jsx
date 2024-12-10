@@ -65,7 +65,7 @@ const home = () => {
             <div className="swiper-slide">
               <div className="product-item">
                 <div className="image-holder">
-                  <img src={"../assets/images/product-item1.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/product-item1.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -92,7 +92,7 @@ const home = () => {
             <div className="swiper-slide">
               <div className="product-item">
                 <div className="image-holder">
-                  <img src={"../assets/images/product-item2.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/product-item2.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -119,7 +119,7 @@ const home = () => {
             <div className="swiper-slide">
               <div className="product-item">
                 <div className="image-holder">
-                  <img src={"../assets/images/product-item3.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/product-item3.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -146,7 +146,7 @@ const home = () => {
             <div className="swiper-slide">
               <div className="product-item">
                 <div className="image-holder">
-                  <img src={"../assets/images/product-item4.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/product-item4.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -182,7 +182,7 @@ const home = () => {
           <div className="col-lg-7 col-md-12 left-content">
             <div className="collection-item">
               <div className="products-thumb">
-                <img src={"../assets/images/collection-item1.jpg"} alt="collection item" className="large-image image-rounded"/>
+                <img src={"../src/assets/images/collection-item1.jpg"} alt="collection item" className="large-image image-rounded"/>
               </div>
               <div className="col-lg-6 col-md-6 col-sm-6 product-entry">
                 <div className="categories">casual collection</div>
@@ -198,7 +198,7 @@ const home = () => {
           <div className="col-lg-5 col-md-12 right-content flex-wrap">
             <div className="collection-item top-item">
               <div className="products-thumb">
-                <img src={"../assets/images/collection-item2.jpg"} alt="collection item" className="small-image image-rounded"/>
+                <img src={"../src/assets/images/collection-item2.jpg"} alt="collection item" className="small-image image-rounded"/>
               </div>
               <div className="col-md-6 product-entry">
                 <div className="categories">Basic Collection</div>
@@ -211,7 +211,7 @@ const home = () => {
             </div>
             <div className="collection-item bottom-item">
               <div className="products-thumb">
-                <img src={"../assets/images/collection-item3.jpg"} alt="collection item" className="small-image image-rounded"/>
+                <img src={"../src/assets/images/collection-item3.jpg"} alt="collection item" className="small-image image-rounded"/>
               </div>
               <div className="col-md-6 product-entry">
                 <div className="categories">Best Selling Product</div>
@@ -266,7 +266,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products1.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products1.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -291,7 +291,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products2.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products2.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -316,7 +316,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products3.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products3.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -341,7 +341,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -366,7 +366,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products5.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products5.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -391,7 +391,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products6.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products6.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -416,7 +416,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -441,7 +441,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products8.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products8.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -466,7 +466,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products13.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products13.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -491,7 +491,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products14.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products14.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -516,7 +516,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products15.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products15.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -541,7 +541,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products16.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products16.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -570,7 +570,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products13.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products13.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -595,7 +595,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products14.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products14.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -620,7 +620,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products15.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products15.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -645,7 +645,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products16.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products16.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -674,7 +674,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products3.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products3.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -699,7 +699,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products8.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products8.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -724,7 +724,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products5.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products5.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -749,7 +749,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -778,7 +778,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products1.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products1.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -803,7 +803,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -828,7 +828,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -853,7 +853,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products2.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products2.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -882,7 +882,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products17.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products17.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -907,7 +907,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -932,7 +932,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products18.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products18.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -961,7 +961,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products3.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products3.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -986,7 +986,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products4.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1011,7 +1011,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products6.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products6.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1036,7 +1036,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products7.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1065,7 +1065,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products5.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products5.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1090,7 +1090,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products2.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products2.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1115,7 +1115,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products6.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products6.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1144,7 +1144,7 @@ const home = () => {
             <div className="row d-flex flex-wrap">
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products19.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products19.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1169,7 +1169,7 @@ const home = () => {
               </div>
               <div className="product-item col-lg-3 col-md-6 col-sm-6">
                 <div className="image-holder">
-                  <img src={"../assets/images/selling-products20.jpg"} alt="Books" className="product-image"/>
+                  <img src={"../src/assets/images/selling-products20.jpg"} alt="Books" className="product-image"/>
                 </div>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
@@ -1253,7 +1253,7 @@ const home = () => {
           <div className="swiper-wrapper">
             <div className="swiper-slide">
               <div className="product-item">
-                <img src={"../assets/images/selling-products9.jpg"} alt="Books" className="product-image"/>
+                <img src={"../src/assets/images/selling-products9.jpg"} alt="Books" className="product-image"/>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
                     <button type="button" className="btn-wrap cart-link d-flex align-items-center">add to cart <i className="icon icon-arrow-io"></i>
@@ -1281,7 +1281,7 @@ const home = () => {
             </div>
             <div className="swiper-slide">
               <div className="product-item">
-                <img src={"../assets/images/selling-products10.jpg"} alt="Books" className="product-image"/>
+                <img src={"../src/assets/images/selling-products10.jpg"} alt="Books" className="product-image"/>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
                     <button type="button" className="btn-wrap cart-link d-flex align-items-center">add to cart <i className="icon icon-arrow-io"></i>
@@ -1309,7 +1309,7 @@ const home = () => {
             </div>
             <div className="swiper-slide">
               <div className="product-item">
-                <img src={"../assets/images/selling-products11.jpg"} alt="Books" className="product-image"/>
+                <img src={"../src/assets/images/selling-products11.jpg"} alt="Books" className="product-image"/>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
                     <button type="button" className="btn-wrap cart-link d-flex align-items-center">add to cart <i className="icon icon-arrow-io"></i>
@@ -1337,7 +1337,7 @@ const home = () => {
             </div>
             <div className="swiper-slide">
               <div className="product-item">
-                <img src={"../assets/images/selling-products12.jpg"} alt="Books" className="product-image"/>
+                <img src={"../src/assets/images/selling-products12.jpg"} alt="Books" className="product-image"/>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
                     <button type="button" className="btn-wrap cart-link d-flex align-items-center">add to cart <i className="icon icon-arrow-io"></i>
@@ -1365,7 +1365,7 @@ const home = () => {
             </div>
             <div className="swiper-slide">
               <div className="product-item">
-                <img src={"../assets/images/selling-products8.jpg"} alt="Books" className="product-image"/>
+                <img src={"../src/assets/images/selling-products8.jpg"} alt="Books" className="product-image"/>
                 <div className="cart-concern">
                   <div className="cart-button d-flex justify-content-between align-items-center">
                     <button type="button" className="btn-wrap cart-link d-flex align-items-center">add to cart <i className="icon icon-arrow-io"></i>
@@ -1403,7 +1403,7 @@ const home = () => {
         <div className="product-collection">
           <div className="left-content collection-item">
             <div className="products-thumb">
-              <img src={"../assets/images/model.jpg"} alt="collection item" className="large-image image-rounded"/>
+              <img src={"../src/assets/images/model.jpg"} alt="collection item" className="large-image image-rounded"/>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-6 product-entry">
               <div className="categories">Denim collection</div>
@@ -1443,7 +1443,7 @@ const home = () => {
           <article className="col-md-4 post-item">
             <div className="image-holder zoom-effect">
               <a href="single-post">
-                <img src={"../assets/images/post-img1.jpg"} alt="post" className="post-image"/>
+                <img src={"../src/assets/images/post-img1.jpg"} alt="post" className="post-image"/>
               </a>
             </div>
             <div className="post-content d-flex">
@@ -1462,7 +1462,7 @@ const home = () => {
           <article className="col-md-4 post-item">
             <div className="image-holder zoom-effect">
               <a href="single-post">
-                <img src={"../assets/images/post-img2.jpg"} alt="post" className="post-image"/>
+                <img src={"../src/assets/images/post-img2.jpg"} alt="post" className="post-image"/>
               </a>
             </div>
             <div className="post-content d-flex">
@@ -1481,7 +1481,7 @@ const home = () => {
           <article className="col-md-4 post-item">
             <div className="image-holder zoom-effect">
               <a href="single-post">
-                <img src={"../assets/images/post-img3.jpg"} alt="post" className="post-image"/>
+                <img src={"../src/assets/images/post-img3.jpg"} alt="post" className="post-image"/>
               </a>
             </div>
             <div className="post-content d-flex">
@@ -1504,11 +1504,11 @@ const home = () => {
     <section id="brand-collection" className="padding-medium bg-light-grey">
       <div className="container">
         <div className="d-flex flex-wrap justify-content-between">
-          <img src={"../assets/images/brand1.png"} alt="phone" className="brand-image"/>
-          <img src={"../assets/images/brand2.png"} alt="phone" className="brand-image"/>
-          <img src={"../assets/images/brand3.png"} alt="phone" className="brand-image"/>
-          <img src={"../assets/images/brand4.png"} alt="phone" className="brand-image"/>
-          <img src={"../assets/images/brand5.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand1.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand2.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand3.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand4.png"} alt="phone" className="brand-image"/>
+          <img src={"../src/assets/images/brand5.png"} alt="phone" className="brand-image"/>
         </div>
       </div>
     </section>
@@ -1523,37 +1523,37 @@ const home = () => {
         <div className="row d-flex flex-wrap justify-content-between">
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src={"../assets/images/insta-image1/.jpg"} alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image1.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src={"../assets/images/insta-image2/.jpg"} alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image2.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src={"../assets/images/insta-image3/.jpg"} alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image3.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src={"../assets/images/insta-image4/.jpg"} alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image4.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src={"../assets/images/insta-image5/.jpg"} alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image5.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <figure className="zoom-effect">
-              <img src={"../assets/images/insta-image6/.jpg"} alt="instagram" className="insta-image"/>
+              <img src={"../src/assets/images/insta-image6.jpg"} alt="instagram" className="insta-image"/>
               <i className="icon icon-instagram"></i>
             </figure>
           </div>
