@@ -10,7 +10,7 @@ const Contact = () => {
             <h1 className="page-title">Contact us</h1>
             <div className="breadcrumbs">
               <span className="item">
-                <a href="index.html">Home /</a>
+                <a href="home">Home /</a>
               </span>
               <span className="item">Contact us</span>
             </div>
